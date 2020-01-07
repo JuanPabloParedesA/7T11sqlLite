@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">7T11sqlLite</string>
+    <string name="btnLista">Lista</string>
+    <string name="btn1">Agregar</string>
+    <string name="btn11">Agregar</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="txtNombre">Ingresa tu nombre</string>
+    <string name="txtEdad">Ingresa tu edad</string>
+    <string name="txtCorreo">Ingresa tu correo</string>
+</resources>
